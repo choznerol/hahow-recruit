@@ -82,4 +82,4 @@
 - 程式的可讀性與可維護性
 - 可靠、可讀、可維護的測試
 - 對於接收資料的各種 edge case 的處理
-- （如果你覺得有把握）可以使用 GraphQL 實作
+- 如果你覺得有把握，可以使用 GraphQL 實作（如果不確定 GraphQL API 怎麼設計比較好，推薦參考 [Shopify 採用的 best practice](https://github.com/Shopify/graphql-design-tutorial/blob/master/TUTORIAL.md)）
